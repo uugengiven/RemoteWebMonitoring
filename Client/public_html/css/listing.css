@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 28, 2014, 3:02:21 PM
+    Author     : user
+*/
+  dl {
+    border: solid;
+    border-width: 1px;
+    padding: 0.5em;
+  }
+  .playinfo {
+      font-style: italic;
+      padding-left: 2em;
+  }
+  dt {
+    float: left;
+    clear: left;
+    width: 35%;
+    overflow:hidden;
+    white-space: nowrap ;
+    /*text-align: right;*/
+    font-weight: bold;
+    color: rgb(189, 183, 107);
+  }
+  dt:after {
+    content: "– – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – – ";
+    padding: 0 .5em;
+    /*margin: 0 1.25em;*/
+  }
+  dd {
+    margin: 0 1em 1em 35%;
+    /*padding: 0.5em;*/
+    /*padding: 0 0 0.5em 0;*/
+    /*text-indent: 35%;*/
+  }
+/*        .playtitle {
+            width:100%;
+                
+        }
+        dt {
+            width:100%;
+            clear:both;
+        }
+        .characterline:last-child {
+            float:right;
+        }
+        .charname, .chardesc{
+            float:left;
+            
+        }
+        charname {
+            width:30%;
+        }
+        .chardesc {
+            width:auto;  
+        }*/
+/** {	
+    margin:0;	
+    padding:0}
+h1, h2 {	
+    padding:10px 20px 0}
+#wrap {	width:100%;	
+        border:1px solid #eff2df;	
+        margin:0 20px;
+        float:left;	
+        background:#809900;	
+        display:inline;Ie double margin fix
+}
+#wrap ul {	
+    padding:20px 40px;	
+    list-style:none;	
+    float:left;	
+    border:1px solid #4c7300;	
+    position:relative;	
+    left:-2px;	top:-2px;	
+    background:#eff2df;	
+    color:#4c7300;
+}
+#wrap li {	
+    line-height:1.2;	
+    margin:-.9em 0 0 0;	
+    position:relative;	
+    float:left;	
+    width:90%;	
+    text-align:left;	
+    border-bottom:1px dotted #000;	
+    clear:both;
+}
+* html #wrap li {	
+    border:none;	
+    clear:both;
+    background: url(images/dotted-leader.gif) repeat-x left bottom;
+}
+#wrap li .chardesc {	
+    background:#eff2df;	
+    padding:1px 0 1px 5px;	
+    color:#000;	
+    position:relative;	
+    top:.4em;	
+    left:1px; ie rounding error	
+    float:left;
+}
+#wrap li .charname {	
+    margin:0;	
+    position:relative;	
+    top:1.6em;	
+    padding:0 5px 0 0;	
+    background:#eff2df;
+    float:left;
+}
+#wrap li {	
+    padding:0 5em 0 0
+}*/

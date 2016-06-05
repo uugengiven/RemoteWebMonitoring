@@ -1,0 +1,74 @@
+
+svg {
+/*  width: 600px;
+  height: 600px;*/
+  pointer-events: all;
+  
+}
+#boxy {
+    
+      height:100%;  
+    
+     /* position:relative; */
+     /*margin-top:00px;*/ 
+    
+      
+      z-index: -500;  
+      
+     /* left:0px; */
+      
+     /* top:100px; */ 
+    //background-color: rga(200,0,0,.1);
+}
+circle {
+  fill: #f00;
+}
+.stroke {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
+.fill {
+  fill: #2f3940;
+  opacity:0.5;
+}
+
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+}
+
+.points {
+   /*background-image: url('ExOne_symbol.png');*/
+    /*fill:#800;*/
+    /*fill:none;*/
+    /*stroke:#600;*/
+    /*stroke:#600;*/
+}
+.point {
+     /*fill:none;*/ 
+    
+     /* fill:#f00; */
+    /*stroke:#000;*/
+    
+     /* opacity: .5; */
+    /*background-image: url('ExOne_symbol.png');*/
+    /*background-image: url(#exone_symbol);*/
+    /*background-size:cover;*/
+
+}
+ .land, .boundary, .countries{
+  /*fill: #5b9632;*/
+  fill:#2f3940;
+  stroke: #fff;
+  stroke-width:1px;
+}
+.countries{
+    fill:rgba(255,255,255,.2);
+    stroke:#2f3940;
+    stroke-width:.5px;
+}
+

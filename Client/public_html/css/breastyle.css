@@ -1,0 +1,34 @@
+body {
+	font-family: 'Roboto', Arial, sans-serif;
+	font-size: 17px;
+	background-color: #333947;
+	color: #dedede;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 300;
+	color: #fff;
+}
+a {
+	color: #26b9d4;
+}
+a:hover, a:focus {
+	color: #68cadc;
+}
+.panel {
+	color: #383e4b;
+}
+.panel-default {
+	border-color: #5c667b;
+}
+.panel-default>.panel-heading {
+	background-color: #5c667b;
+	border-color: #5c667b;
+	color: #fff;
+}
+.panel-scroll {
+	max-height: 300px;
+	overflow-y: auto;
+}
+.margin {
+	margin-bottom: 2em;
+}

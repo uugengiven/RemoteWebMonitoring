@@ -1,0 +1,1450 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 033",
+        "location" : "Aishin (Japan)",
+        "longitude" : 137.070522,
+        "latitude" : 35.026461,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          137.070522,
+          35.026461
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 029",
+        "location" : "Avitech (Russia)",
+        "longitude" : null,
+        "latitude" : null,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : []
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 032",
+        "location" : "Becker (Germany)",
+        "longitude" : null,
+        "latitude" : null,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : []
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 023",
+        "location" : "Benninger (Switzerland)",
+        "longitude" : 9.137981,
+        "latitude" : 47.438151,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          9.137981,
+          47.438151
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 001",
+        "location" : "BMW (Germany)",
+        "longitude" : 11.561152,
+        "latitude" : 48.177279,
+        "s15" : true,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15",
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11.561152,
+          48.177279
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 011",
+        "location" : "Bosch Rexroth (Germany)",
+        "longitude" : 9.5751,
+        "latitude" : 49.99871,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax",
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          9.5751,
+          49.99871
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 031",
+        "location" : "Champion Machine Tool (USA)",
+        "longitude" : -95.419778,
+        "latitude" : 30.061143,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -95.419778,
+          30.061143
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 013",
+        "location" : "CTI (UK)",
+        "longitude" : -0.454295,
+        "latitude" : 51.470022,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.454295,
+          51.470022
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SP 004",
+        "location" : "Daihatsu (Japan)",
+        "longitude" : 135.428444,
+        "latitude" : 34.821705,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          135.428444,
+          34.821705
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 007",
+        "location" : "Daimler Mercedes (Germany)",
+        "longitude" : 9.24114,
+        "latitude" : 48.785479,
+        "s15" : true,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15",
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          9.24114,
+          48.785479
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 019",
+        "location" : "Danielson (France)",
+        "longitude" : 3.15205,
+        "latitude" : 46.883895,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          3.15205,
+          46.883895
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 018",
+        "location" : "ExOne Americas (Auburn PSC)",
+        "longitude" : -122.228453,
+        "latitude" : 47.307323,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : true,
+        "capabilities" : [
+          "auburn",
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -122.228453,
+          47.307323
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 005",
+        "location" : "ExOne Americas (Houston PSC)",
+        "longitude" : -95.498999,
+        "latitude" : 29.912742,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : true,
+        "capabilities" : [
+          "houston",
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -95.498999,
+          29.912742
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 029",
+        "location" : "ExOne Americas (Nevada PSC)",
+        "longitude" : -115.17285,
+        "latitude" : 36.114707,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : true,
+        "capabilities" : [
+          "nevada",
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -115.17285,
+          36.114707
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 001",
+        "location" : "ExOne Americas (North Huntingdon PSC)",
+        "longitude" : -79.701155,
+        "latitude" : 40.324514,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : true,
+        "capabilities" : [
+          "irwin",
+          "sprint",
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -79.701155,
+          40.324514
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 004",
+        "location" : "ExOne Americas (Troy PSC)",
+        "longitude" : -83.14993,
+        "latitude" : 42.605589,
+        "s15" : true,
+        "smax" : true,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : true,
+        "capabilities" : [
+          "troy",
+          "s15",
+          "smax",
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -83.14993,
+          42.605589
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SA 001",
+        "location" : "ExOne GmbH (Germany PSC)",
+        "longitude" : 10.898255,
+        "latitude" : 48.371441,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : true,
+        "capabilities" : [
+          "augsburg",
+          "smax",
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          10.898255,
+          48.371441
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 017",
+        "location" : "ExOne KK (Japan PSC)",
+        "longitude" : 139.642345,
+        "latitude" : 35.447507,
+        "s15" : true,
+        "smax" : true,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : true,
+        "capabilities" : [
+          "kanagawa",
+          "s15",
+          "smax",
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.642345,
+          35.447507
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 011",
+        "location" : "Ford (UK)",
+        "longitude" : -1.156488,
+        "latitude" : 52.258149,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.156488,
+          52.258149
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 005",
+        "location" : "Ford (USA)",
+        "longitude" : -83.211242,
+        "latitude" : 42.313797,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -83.211242,
+          42.313797
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SA 004",
+        "location" : "Grainger and Worrall (UK) - phenolic binder",
+        "longitude" : -2.378402,
+        "latitude" : 52.533925,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.378402,
+          52.533925
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "Orion 001",
+        "location" : "Hanji (China)",
+        "longitude" : 119.116315,
+        "latitude" : 25.458752,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : true,
+        "isExOne" : false,
+        "capabilities" : [
+          "laser"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          119.116315,
+          25.458752
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 027",
+        "location" : "Hoosier Pattern (USA)",
+        "longitude" : -84.933337,
+        "latitude" : 40.82864,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -84.933337,
+          40.82864
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 028",
+        "location" : "HRK (Japan)",
+        "longitude" : null,
+        "latitude" : null,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 032",
+        "location" : "I Metal (Japan)",
+        "longitude" : 140.221082,
+        "latitude" : 36.117807,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          140.221082,
+          36.117807
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 007",
+        "location" : "Key Manufacturing (USA)",
+        "longitude" : null,
+        "latitude" : null,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15",
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 030",
+        "location" : "Kimura (Japan)",
+        "longitude" : 135.445259,
+        "latitude" : 34.719322,
+        "s15" : true,
+        "smax" : true,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15",
+          "smax",
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          135.445259,
+          34.719322
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 020",
+        "location" : "Kocel (China)",
+        "longitude" : 106.123979,
+        "latitude" : 38.47064,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          106.123979,
+          38.47064
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 010",
+        "location" : "Koiwai (Japan)",
+        "longitude" : 139.202211,
+        "latitude" : 35.384073,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax",
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          139.202211,
+          35.384073
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 018",
+        "location" : "KSB (Germany)",
+        "longitude" : 8.356587,
+        "latitude" : 49.542242,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          8.356587,
+          49.542242
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 013",
+        "location" : "Magellan Aerospace (Canada)",
+        "longitude" : -0.127625,
+        "latitude" : 51.503363,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.127625,
+          51.503363
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 002",
+        "location" : "Messier (France) [Leased by GmbH]",
+        "longitude" : 2.197717,
+        "latitude" : 48.782365,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2.197717,
+          48.782365
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 004",
+        "location" : "Mino (Japan)",
+        "longitude" : 136.722291,
+        "latitude" : 35.391227,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          136.722291,
+          35.391227
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 001",
+        "location" : "NEEV (India)",
+        "longitude" : 77.613165,
+        "latitude" : 12.979884,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          77.613165,
+          12.979884
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 024",
+        "location" : "Niat (Russia)",
+        "longitude" : 30.328932,
+        "latitude" : 59.417832,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          30.328932,
+          59.417832
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 021",
+        "location" : "Progress (Russia)",
+        "longitude" : 129.661034,
+        "latitude" : 49.758904,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          129.661034,
+          49.758904
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 016",
+        "location" : "Reductor (Russia)",
+        "longitude" : 56.188448,
+        "latitude" : 58.008193,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          56.188448,
+          58.008193
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 005",
+        "location" : "RP+M (USA)",
+        "longitude" : -81.844115,
+        "latitude" : 41.202366,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -81.844115,
+          41.202366
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 021",
+        "location" : "Rubin (Russia)",
+        "longitude" : 37.6173,
+        "latitude" : 55.755826,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          37.6173,
+          55.755826
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 023",
+        "location" : "Salut (Russia)",
+        "longitude" : 37.731034,
+        "latitude" : 55.765801,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          37.731034,
+          55.765801
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 039",
+        "location" : "Samyoung (S Korea)",
+        "longitude" : 126.748391,
+        "latitude" : 37.312787,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          126.748391,
+          37.312787
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SP 003",
+        "location" : "Souyz (Japan)",
+        "longitude" : null,
+        "latitude" : null,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 006",
+        "location" : "Speed 3D Mold (Thailand)",
+        "longitude" : 100.274396,
+        "latitude" : 13.547522,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          100.274396,
+          13.547522
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 008",
+        "location" : "Summit Materials (USA)",
+        "longitude" : -77.058599,
+        "latitude" : 38.902285,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -77.058599,
+          38.902285
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 024",
+        "location" : "Toyota (Japan)",
+        "longitude" : 136.99776,
+        "latitude" : 34.993379,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          136.99776,
+          34.993379
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SA 003",
+        "location" : "Turbo Energy (India) - furan binder",
+        "longitude" : 79.497547,
+        "latitude" : 13.061691,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : true,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "sprint"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          79.497547,
+          13.061691
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 010",
+        "location" : "UMPO (Russia)",
+        "longitude" : 56.129786,
+        "latitude" : 54.783337,
+        "s15" : true,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15",
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          56.129786,
+          54.783337
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 027",
+        "location" : "Uniscientech (Kazakhstan)",
+        "longitude" : 73.166667,
+        "latitude" : 49.833333,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          73.166667,
+          49.833333
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 030",
+        "location" : "University of Northern Iowa (USA)",
+        "longitude" : -92.465649,
+        "latitude" : 42.513117,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -92.465649,
+          42.513117
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 004",
+        "location" : "University of Pittsburgh (USA)",
+        "longitude" : -79.953902,
+        "latitude" : 40.443927,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -79.953902,
+          40.443927
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 003",
+        "location" : "University of Quebec (Canada)",
+        "longitude" : -71.222787,
+        "latitude" : 46.813514,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -71.222787,
+          46.813514
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "SM 002",
+        "location" : "VDP (Italy)",
+        "longitude" : 11.42049,
+        "latitude" : 45.717208,
+        "s15" : false,
+        "smax" : true,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "smax"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          11.42049,
+          45.717208
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 026",
+        "location" : "Volkswagen (Germany)",
+        "longitude" : 10.786546,
+        "latitude" : 52.42265,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          10.786546,
+          52.42265
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 008",
+        "location" : "Voxeljet (Germany)",
+        "longitude" : 10.95506,
+        "latitude" : 48.36448,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          10.95506,
+          48.36448
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 006",
+        "location" : "Youngstown State University (USA)",
+        "longitude" : -80.646809,
+        "latitude" : 41.107003,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -80.646809,
+          41.107003
+        ]
+      }
+    }
+  ]
+}

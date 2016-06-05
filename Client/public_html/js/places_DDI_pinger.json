@@ -1,0 +1,57 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "PS 033",
+        "location" : "Aishin (Japan)",
+        "longitude" : 137.070522,
+        "latitude" : 35.026461,
+        "s15" : true,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : false,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "s15"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          137.070522,
+          35.026461
+        ]
+      }
+    },
+    {
+      "type" : "Feature",
+      "properties" : {
+        "SN" : "MF 004",
+        "location" : "University of Pittsburgh (USA)",
+        "longitude" : -79.953902,
+        "latitude" : 40.443927,
+        "s15" : false,
+        "smax" : false,
+        "sprint" : false,
+        "smaxplus" : false,
+        "mflex" : true,
+        "laser" : false,
+        "isExOne" : false,
+        "capabilities" : [
+          "mflex"
+        ]
+      },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -79.953902,
+          40.443927
+        ]
+      }
+    }
+  ]
+}

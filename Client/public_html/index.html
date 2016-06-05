@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta charset="utf-8" />
+        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <script src="js/vendor/d3/d3.v3.min.js" type="text/javascript"></script>
+
+        <script src="js/vendor/d3/queue.v1.min.js"></script>
+        <script src="js/vendor/d3/topojson.v0.min.js"></script>
+
+        <script src="js/vendor/jquery-1.11.0.min.js"></script>
+        <script src="js/vendor/jquery-ui.min.js"></script>
+
+        <link rel="stylesheet" href="/resources/demos/style.css">
+
+        <!--<link type="text/css" rel="stylesheet" href="css/dot-luv/jquery-ui-1.10.4.custom.css">-->
+        <link type="text/css" rel="stylesheet" href="css/style.css">
+
+        <link href="js/vendor/bootstrap-3.3.5-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="css/breastyle.css">
+        <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700,400italic' rel='stylesheet' type='text/css'>
+
+
+        <style>
+
+            /*.land {
+              fill: #999;
+              stroke-opacity: 1;
+            }
+            
+            .graticule {
+              fill: none;
+              stroke: black;
+              stroke-width:.5;
+              opacity:.2;
+            }
+            */
+            .labels {
+                font: 8px sans-serif;
+                fill: black;
+                opacity: .5;
+
+                display:none;
+            }
+
+            .noclicks { pointer-events:none; }
+
+            .point {  opacity:.6; }
+
+            .arcs {
+                opacity:.1;
+                stroke: gray;
+                stroke-width: 3;
+            }
+            .flyers,.backflyers {
+                stroke-width:5;
+                /*opacity: .6;*/
+                /*stroke: darkred;*/ 
+            }
+            .arc, .flyer, .backflyer {
+                /*stroke: darkred;*/
+                stroke-linejoin: round;
+                fill:none;
+            }
+            .arc { }
+            .flyer { }
+            .flyer:hover,.backflyer:hover {stroke:darkblue!important; }
+
+        </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Distributed Web Test Nodes</h1>
+            <div class="row margin">
+                <div class="col-xs-12 col-sm-7">
+                    <div id="boxy" class="sphere"></div>
+                    <script type="text/javascript" src="js/globe-main.js"></script>
+
+                </div>
+                <div class="col-xs-12 col-sm-5">
+                    <h2 id="nodename" style="font-weight:700;">...</h2>
+                    <h3>Location</h3>
+                    <p id="location">... , ...</p>
+                    <h3>Tests</h3>
+                    <div id="rawdata"></div>
+<!--                    <h4>Test Name 1</h4>
+                    <ul>
+                        <li><a href="#">August 6, 2015 11:00am</a></li>
+                        <li><a href="#">August 6, 2015 10:00am</a></li>
+                        <li><a href="#">August 6, 2015 9:00am</a></li>
+                        <li><a href="#">August 6, 2015 8:00am</a></li>
+                        <li><a href="#">August 6, 2015 7:00am</a></li>
+                    </ul>
+                    <h4>Test Name 2</h4>
+                    <ul>
+                        <li><a href="#">August 6, 2015 11:00am</a></li>
+                        <li><a href="#">August 6, 2015 10:00am</a></li>
+                        <li><a href="#">August 6, 2015 9:00am</a></li>
+                        <li><a href="#">August 6, 2015 8:00am</a></li>
+                        <li><a href="#">August 6, 2015 7:00am</a></li>
+                    </ul>-->
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h2 class="panel-title">HTTP Archive</h2>
+                        </div>
+                        <div class="panel-scroll">
+                            <div class="panel-body">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit efficitur arcu, vel dapibus tellus cursus a. Nulla ut mauris sagittis nibh placerat eleifend at in leo. In dui metus, vehicula a sodales sit amet, tincidunt quis elit. Duis eleifend porttitor arcu, eget molestie sapien varius ut. Nunc ac viverra tellus. Duis id urna sit amet tellus condimentum commodo eu ac urna. Donec id nunc dui.</p>
+                                <ul>
+                                    <li>Nulla ut mauris sagittis nibh placerat</li>
+                                    <li>Etiam a pretium ante, eu convallis elit</li>
+                                    <li>Interdum et malesuada fames</li>
+                                </ul>
+                                <p>Nunc a leo a turpis sagittis consectetur. Etiam a pretium ante, eu convallis elit. Nullam et vestibulum risus. <a href="#">Nulla a erat</a> sagittis, convallis leo a, hendrerit mi. Donec scelerisque cursus elementum. Fusce dictum tellus dui, a faucibus sem laoreet in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut fermentum auctor aliquam.</p>
+                                <p>Vestibulum aliquam interdum velit quis molestie. Mauris purus dui, vehicula ac nunc non, laoreet ornare libero. Morbi ullamcorper massa vel consectetur faucibus. Proin risus magna, vestibulum vulputate suscipit id, fermentum quis nisl. Integer elementum commodo consequat. Pellentesque ac venenatis ligula.</p>
+                                <p>Quisque posuere nulla sed mauris luctus, faucibus sollicitudin arcu vehicula. Quisque sem dolor, lacinia sed vehicula quis, ornare eget lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                                <p>Nunc a leo a turpis sagittis consectetur. Etiam a pretium ante, eu convallis elit. Nullam et vestibulum risus. Nulla a erat sagittis, convallis leo a, hendrerit mi. Donec scelerisque cursus elementum. Fusce dictum tellus dui, a faucibus sem laoreet in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut fermentum auctor aliquam.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
