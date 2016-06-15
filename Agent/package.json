@@ -1,0 +1,21 @@
+{
+  "name": "webtests",
+  "version": "1.0.0",
+  "description": "Runs some web tests",
+  "main": "test.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uugengiven/DistributedWebTest/tree/master/WebTests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^1.8.2",
+    "node-ping": "^0.1.0",
+    "ping": "^0.1.10",
+    "tcp-ping": "^0.1.1"
+  }
+}
